@@ -10,7 +10,7 @@ lightning_logs/
 # Timeseries
 
 data/
-
+model/
 # Charts, etc.
 
 results/
